@@ -9,7 +9,8 @@
       the right side of the page to add tasks
     </h3>
   {{else}}
-    <table class="table table-responsive table-striped mt-4">
+  <div class="table-responsive">
+    <table class="table table-striped mt-4">
       <thead>
         <tr>
           <th scope="col">#</th>
@@ -38,5 +39,7 @@
         </tbody>
       {{/each}}
     </table>
+
+  </div>
   {{/unless}}
 </div>
