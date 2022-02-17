@@ -59,4 +59,9 @@ footer a:hover {
         text-align: center;
         height: 8rem;
     }
+
+    main {
+        flex: 1 0 auto;
+        padding-bottom: 11%;
+    }
 }
