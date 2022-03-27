@@ -2,12 +2,14 @@
 
 ## Table of Contents
 
-- [License](#license)
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#instructions)
-- [Contributors](#contributors)
-- [Questions](#questions)
+- [Project Management System App](#project-management-system-app)
+  - [Table of Contents](#table-of-contents)
+  - [License](#license)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributors](#contributors)
+  - [Questions](#questions)
 
 ## License
 
@@ -30,20 +32,18 @@ This project taught us that everyone has daily routines that need to be organize
 To run the Project Management System a user needs to simply sign up for an account.
 
 ## Usage
-[Click here to view the live site deployed to Heroku](https://judo2000-pms.herokuapp.com/projects)  
+
+[Click here to view the live site deployed to Heroku](https://judo2000-project-mgnt.herokuapp.com/)
 
 PMS was made over long painstaking hours by an amazing team of developers. The application uses an array of technologies not limited to and including VSCode, HTML, CSS, JavaScript, Node.js, Postman, MySQL Workbench, a WYSIWYG editor and others.
 
-
 ![Projects](./public/images/Projects.png)
-
 
 ![Single Project](./public/images/IndividualProject.png)
 
-
 ## Contributors
 
-Matthew Brignola, Andrew McInally, Stephen Moore, Jenya Seletsky, 
+Matthew Brignola, Andrew McInally, Stephen Moore, Jenya Seletsky,
 
 ## Questions
 
